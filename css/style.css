@@ -31,9 +31,6 @@ p{
     box-shadow: 8px 8px 30px lightgrey;
 }
 
-.card-footer{
-    border-radius: 10px;
-}
 
 .hr-line{
     width: 150px;
@@ -50,4 +47,10 @@ p{
 
 .image{
     padding: 30px 30px;
+}
+
+.footer{
+
+    height: 20px;
+    background-color: bisque;
 }
